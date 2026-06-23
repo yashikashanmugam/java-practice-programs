@@ -1,0 +1,18 @@
+public class yashika {
+
+    public static void main(String[] args) {
+
+        int age = 20;
+        double salary = 25000.50;
+        char grade = 'A';
+        boolean isJavaGood = true;
+
+        String name = "Yashika";
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Salary: " + salary);
+        System.out.println("Grade: " + grade);
+        System.out.println("isJavaGood: " + isJavaGood);
+    }
+}
