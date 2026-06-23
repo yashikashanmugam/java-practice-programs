@@ -1,4 +1,4 @@
-# Java Practice Programs ☕
+# Java Practice Programs
 
 A collection of Java programs created while learning and practicing core Java concepts.
 
